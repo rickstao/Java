@@ -1,0 +1,23 @@
+/**
+ *Ruikang Tao
+ *rtao6
+ *Programming Assignment 1
+ */
+
+This README file includes descriptions of the files submitted for this assignment.
+
+List.java
+	Abstract data type contains manipulative methods of doubly linked list.
+
+Lex.java
+	Main program containing insertion sort algorithm takes an input file and
+	write result on the output file.
+
+ListClient.java
+	Test client for List ADT functions.
+
+Makefile
+	Compiles java files and creates an executable Lex.jar file. Includes clean 		and submit.
+
+README
+	Table of contents of the files submitted.
